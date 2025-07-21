@@ -1,2 +1,4 @@
 # condChemRNN
-A repository for computational chemistry.
+A repository for generative chemistry using a conditional recurrent neural network.
+
+- 
